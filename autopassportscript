@@ -1,0 +1,64 @@
+#pointing to apply for passport
+mousemove 300 520
+click 1
+
+
+#pointing to renewal
+mousemove_relative 0 210
+sleep 1
+click 1
+
+#inside renewal
+sleep 0.7
+click 4
+
+#clicking 34page passport
+sleep 0.7
+click 1
+sleep 0.7
+
+#to proceed button
+click 5 
+click 5
+mousemove_relative 0 -20
+sleep 0.4
+click 1
+
+#to agree
+mousemove_relative 0 -95
+sleep 0.2
+click 1 
+
+#appointmnet page
+sleep 0.2
+mousemove_relative 0 13
+sleep 1.5
+click 1
+sleep 0.5
+mousemove_relative 0 50
+sleep 0.3
+click 1
+
+mousemove_relative 0 60
+sleep 0.8
+click 1
+sleep 0.8
+mousemove_relative 0 -180
+sleep 0.6
+click 1
+sleep 0.6
+click 5
+click 5
+click 5
+click 5
+click 5
+click 5
+click 5
+click 5
+
+
+
+#for going to front page
+#sleep 2
+#mousemove 94 96 
+#click 1
