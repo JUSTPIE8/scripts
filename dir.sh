@@ -10,6 +10,8 @@ if [ "$hello" =  "" ]
 then
     exit
 fi
+
+if [[ -d $hello ]]; then
 xdotool key Alt+d
 sleep 1s
 xdotool type "st"
@@ -18,3 +20,15 @@ sleep 1.5s
 xdotool type "cd "
 xdotool type "$hello"
 xdotool key Return
+
+else
+    xdotool key Alt+d
+sleep 1s
+xdotool type "st"
+xdotool key Return
+sleep 1.5s
+xdotool type "xdg-open "
+xdotool type "$hello"
+xdotool key Return
+
+fi

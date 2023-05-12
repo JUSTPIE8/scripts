@@ -1,5 +1,5 @@
 #!/bin/bash
-value=`cat ~/page.txt`
+value=`cat ~/script/page.txt`
 #echo $value
 cd ~/Desktop
 
