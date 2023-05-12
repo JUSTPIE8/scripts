@@ -1,0 +1,81 @@
+/home/sandesh/Desktop
+/home/sandesh/Downloads
+/home/sandesh/algorithm
+/home/sandesh/config
+/home/sandesh/Context%20free%20grammar(unit%20-4).pptx_0.odp
+/home/sandesh/go
+/home/sandesh/hello
+/home/sandesh/hello.go
+/home/sandesh/history.txt
+/home/sandesh/javasharedresources
+/home/sandesh/justforfunc
+/home/sandesh/keyring.deb
+/home/sandesh/labs
+/home/sandesh/Music
+/home/sandesh/orb.db
+/home/sandesh/osc52.vim
+/home/sandesh/page.txt
+/home/sandesh/perl5
+/home/sandesh/Pictures
+/home/sandesh/presentation
+/home/sandesh/pt
+/home/sandesh/script
+/home/sandesh/snap
+/home/sandesh/texput.log
+/home/sandesh/Videos
+/home/sandesh/VirtualBox VMs
+/home/sandesh/Desktop/BOOKS
+/home/sandesh/Desktop/goCmd
+/home/sandesh/Desktop/GOlearn
+/home/sandesh/Desktop/history.txt
+/home/sandesh/Desktop/labprolog
+/home/sandesh/Desktop/BOOKS/Amitshahpracticalgo.pdf
+/home/sandesh/Desktop/GOlearn/bookServer
+/home/sandesh/Desktop/goCmd/cat.txt
+/home/sandesh/Desktop/goCmd/cat1.txt
+/home/sandesh/Desktop/goCmd/colStats
+/home/sandesh/Desktop/GOlearn/concurrency
+/home/sandesh/Desktop/GOlearn/context.go
+/home/sandesh/Desktop/GOlearn/contextImpl
+/home/sandesh/Desktop/GOlearn/count
+/home/sandesh/Desktop/BOOKS/David Choi - Full-Stack React, TypeScript, and Node_ Build cloud-ready web applications using React 17 with Hooks and GraphQL-Packt Publishing (2020).pdf
+/home/sandesh/Desktop/BOOKS/DeBarros Anthony - Practical SQL_ A Beginnerâs Guide to Storytelling with Data-No Starch Press (2018).pdf
+/home/sandesh/Desktop/BOOKS/Derek DeJonghe - Nginx cookbook_ Advanced recipes for high-performance load balancing-O'Reilly (2020).pdf
+/home/sandesh/Desktop/BOOKS/Dimitri Fontaine - The Art of PostgreSQL_ Turn Thousands of Lines of Code into Simple Queries-Self-published .pdf
+/home/sandesh/Desktop/BOOKS/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015)-1.pdf
+/home/sandesh/Desktop/GOlearn/generator
+/home/sandesh/Desktop/GOlearn/go-bookstore
+/home/sandesh/Desktop/goCmd/goci
+/home/sandesh/Desktop/GOlearn/goclass
+/home/sandesh/Desktop/goCmd/goTodo
+/home/sandesh/Desktop/GOlearn/graphics
+/home/sandesh/Desktop/BOOKS/Hans-Jürgen Schönig - Mastering PostgreSQL 13-Packt Publishing (2020).pdf
+/home/sandesh/Desktop/BOOKS/Jack-Benny Persson - Linux System Programming Techniques - Become a proficient Linux system programmer using expert recipes and techniques-Packt (,2021).pdf
+/home/sandesh/Desktop/GOlearn/jsondata
+/home/sandesh/Desktop/BOOKS/Katherine Cox-Buday - Concurrency in Go_ Tools and Techniques for Developers-O’Reilly Media .pdf
+/home/sandesh/Desktop/GOlearn/leetcode
+/home/sandesh/Desktop/BOOKS/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Build and manage high-performance database solutions using PostgreSQL 12 and 13-Packt Publishing .pdf
+/home/sandesh/Desktop/BOOKS/Mario Casciaro, Luciano Mammino - Node.js Design Patterns_ Design and implement production-grade Node.js applications using proven patterns and techniques, 3rd Edition-Packt Publishing (2020).pdf
+/home/sandesh/Desktop/BOOKS/Matthew A. Titmus - Cloud Native Go_ Building Reliable Services in Unreliable Environments-O'Reilly Media (2021).pdf
+/home/sandesh/Desktop/BOOKS/Matthew Boyle - Domain-Driven Design with Golang_ Use Golang to create simple, maintainable systems to solve complex business problems-Packt Publishing .pdf
+/home/sandesh/Desktop/goCmd/mdp
+/home/sandesh/Desktop/BOOKS/Michael Stack - Event-Driven Architecture in Golang_ Building complex systems with asynchronicity and eventual consistency-Packt Publishing .pdf
+/home/sandesh/Desktop/GOlearn/microservice
+/home/sandesh/Desktop/goCmd/pomo
+/home/sandesh/Desktop/goCmd/pscan
+/home/sandesh/Desktop/GOlearn/readdir
+/home/sandesh/Desktop/GOlearn/reflection
+/home/sandesh/Desktop/BOOKS/Ricardo Gerardi - Powerful Command-Line  .pdf
+/home/sandesh/Desktop/BOOKS/Ricardo Gerardi - Powerful Command-Line Applications in Go_ Build Fast and Maintainable Tools-The Pragmatic Bookshelf, LLC .pdf
+/home/sandesh/Desktop/BOOKS/Saleem Siddiqui - Learning Test-Driven Development_ A Polyglot Guide to Writing Uncluttered Code-O'Reilly Media .pdf
+/home/sandesh/Desktop/GOlearn/src
+/home/sandesh/Desktop/GOlearn/static
+/home/sandesh/Desktop/labprolog/sum.pl
+/home/sandesh/Desktop/BOOKS/Teiva Harsanyi - 100 Go Mistakes and How to Avoid Them-Manning Publications .pdf
+/home/sandesh/Desktop/BOOKS/Thomas Hunter II - Distributed Systems with Node.js_ Building Enterprise-Ready Backend Services-O'Reilly Media (2020).pdf
+/home/sandesh/Desktop/BOOKS/Thorsten Ball - Writing a Compiler in Go-Thorsten Ball (2018).pdf
+/home/sandesh/Desktop/BOOKS/Thorsten Ball - Writing an interpreter in Go (2017).pdf
+/home/sandesh/Desktop/goCmd/todoServer
+/home/sandesh/Desktop/BOOKS/Travis Jeffery - Distributed Services with Go_ Your Guide to Reliable, Scalable, and Maintainable Systems-Pragmatic Bookshelf .pdf
+/home/sandesh/Desktop/GOlearn/web
+
