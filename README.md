@@ -1,1 +1,1 @@
-#collection of useful scripts
+collection of useful scripts
