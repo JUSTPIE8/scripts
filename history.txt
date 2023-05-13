@@ -1,12 +1,10 @@
-/home/sandesh/Desktop
-/home/sandesh/Downloads
 /home/sandesh/algorithm
 /home/sandesh/config
 /home/sandesh/Context%20free%20grammar(unit%20-4).pptx_0.odp
+/home/sandesh/Desktop
+/home/sandesh/Downloads
 /home/sandesh/go
 /home/sandesh/hello
-/home/sandesh/hello.go
-/home/sandesh/history.txt
 /home/sandesh/javasharedresources
 /home/sandesh/justforfunc
 /home/sandesh/keyring.deb
@@ -14,7 +12,6 @@
 /home/sandesh/Music
 /home/sandesh/orb.db
 /home/sandesh/osc52.vim
-/home/sandesh/page.txt
 /home/sandesh/perl5
 /home/sandesh/Pictures
 /home/sandesh/presentation
@@ -78,4 +75,3 @@
 /home/sandesh/Desktop/goCmd/todoServer
 /home/sandesh/Desktop/BOOKS/Travis Jeffery - Distributed Services with Go_ Your Guide to Reliable, Scalable, and Maintainable Systems-Pragmatic Bookshelf .pdf
 /home/sandesh/Desktop/GOlearn/web
-
