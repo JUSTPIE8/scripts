@@ -24,15 +24,15 @@ exit
 #Only Desktop and Downloads are used since they are mainly i use
 if [ ! -f ~/history.txt ]; then
 
-touch ~/script/history.txt
+touch ~/history.txt
 cd ~
- ls -d -1 "$PWD/"* >~/script/history.txt
+ ls -d -1 "$PWD/"* >~/history.txt
 cd ~/Desktop
- ls -d -1 "$PWD/"* >>~/script/history.txt
- ls -d -1 "$PWD/"*/* >>~/script/history.txt
+ ls -d -1 "$PWD/"* >>~/history.txt
+ ls -d -1 "$PWD/"*/* >>~/history.txt
 
 cd ~/Downloads
-ls -d -1 "$PWD/"* >>~/script/history.txt
+ls -d -1 "$PWD/"* >>~/history.txt
 fi
 
 #dest u want to go 
