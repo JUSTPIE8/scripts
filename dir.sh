@@ -1,3 +1,4 @@
+#!/bin/zsh
 #uses dmenu to traverse file 
 #uses history.txt as a file to traverse 
 #keybinded with MOD+s in dwm
@@ -9,7 +10,7 @@ run(){
 sleep 1s
 xdotool type "st"
 xdotool key Return
-sleep 1.5s
+sleep 0.5s
 xdotool type "$1 "
 xdotool type "'$2'"
 xdotool key Return
@@ -17,7 +18,7 @@ exit
 }
 
 
-#!/bin/sh
+
 #
 #
 #create history file if not exists 
