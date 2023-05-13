@@ -11,7 +11,7 @@ xdotool type "st"
 xdotool key Return
 sleep 1.5s
 xdotool type "$1 "
-xdotool type "$2"
+xdotool type "'$2'"
 xdotool key Return
 exit
 }
