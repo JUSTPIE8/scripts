@@ -22,7 +22,7 @@ exit
 #
 #create history file if not exists 
 #Only Desktop and Downloads are used since they are mainly i use
-if [ ! -f ~/script/history.txt ]; then
+if [ ! -f ~/history.txt ]; then
 
 touch ~/script/history.txt
 cd ~
@@ -36,7 +36,7 @@ ls -d -1 "$PWD/"* >>~/script/history.txt
 fi
 
 #dest u want to go 
-dest=$( awk '{print}' ~/script/history.txt | dmenu -i -fn 20 -l 30 )
+dest=$( awk '{print}' ~/history.txt | dmenu -i -fn 20 -l 30 )
 #echo $dest
 if [ "$dest" =  "" ]
 then
