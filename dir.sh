@@ -23,8 +23,7 @@ exit
 #
 #create history file if not exists 
 #Only Desktop and Downloads are used since they are mainly i use
-if [ ! -f ~/history.txt ]; then
-
+rm ~/history.txt
 touch ~/history.txt
 cd ~
  ls -d -1 "$PWD/"* >~/history.txt
@@ -34,7 +33,6 @@ cd ~/Desktop
 
 cd ~/Downloads
 ls -d -1 "$PWD/"* >>~/history.txt
-fi
 
 #dest u want to go 
 dest=$( awk '{print}' ~/history.txt | dmenu -i -fn 20 -l 30 )
@@ -43,6 +41,11 @@ if [ "$dest" =  "" ]
 then
     exit
 fi
+case $dest in
+    *".txt"*)
+        cmd="xed"
+    run "$cmd" "$dest"
+esac
 dot="."
 case $dest in
     *"$dot"*)
