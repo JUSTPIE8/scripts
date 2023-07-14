@@ -9,5 +9,4 @@ gitrun - To auto add all files and open editor for commit and push after commit 
 
 youtubepipe - Literally nothing just did to pass time
 
-dir - to go to specific folder at once or open a file by selecting your destination in a dmenu (More useful if some specific key is binded so we can open a file or folder from anywhere) (Requires xdotool and dmenu)
-
+dir - to go to specific folder at once or open a file by selecting your destination in a dmenu (More useful if some specific key is binded so we can open a file or folder from anywhere) (Requires xdotool and dmenu
