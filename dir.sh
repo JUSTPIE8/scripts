@@ -4,20 +4,16 @@
 #keybinded with MOD+s in dwm
 #one small problem is it determines file with '.' so if some file doesnot have  a dot it tries to cd it 
 run(){
-    echo "$1"
-    echo "$2"
-  xdotool key Alt+d
+xdotool key Alt+d
 sleep 1s
 xdotool type "st"
 xdotool key Return
 sleep 0.5s
 xdotool type "$1 "
-xdotool type "'$2'"
+xdotool type "\"$2\""
 xdotool key Return
 exit
 }
-
-
 
 #
 #
