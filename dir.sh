@@ -6,7 +6,7 @@
 run(){
 xdotool key Alt+d
 sleep 1s
-xdotool type "st"
+xdotool type "terminal"
 xdotool key Return
 sleep 0.5s
 xdotool type "$1 "
